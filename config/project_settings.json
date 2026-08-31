@@ -1,0 +1,10 @@
+{
+  "primary_player_names": [
+    "Player"
+  ],
+  "primary_player_display_name": "Player",
+  "notes": [
+    "Замените Player на ник игрока так, как он записан внутри demo-файла.",
+    "Если ник встречается в нескольких вариантах, добавьте их в primary_player_names."
+  ]
+}

@@ -1,0 +1,7 @@
+awpy
+demoparser2
+numpy
+pandas
+pyarrow
+rich
+typer

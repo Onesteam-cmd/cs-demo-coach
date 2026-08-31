@@ -1,0 +1,32 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local model/provider configuration
+config/llm.env
+config/llm_profiles.env
+.env
+.env.*
+
+# Match input and generated analysis data
+*.dem
+data/*
+!data/.gitkeep
+
+# Temporary artifacts
+_patches/
+*.bak
+*.tmp
+*.log
